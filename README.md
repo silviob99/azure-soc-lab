@@ -1,5 +1,3 @@
-# azure-soc-lab
-
 # Azure SOC Lab
 
 ## Objective
